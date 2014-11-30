@@ -1,0 +1,5 @@
+D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\bin\Debug\Projecto_IS.exe.config
+D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\bin\Debug\Projecto_IS.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\bin\Debug\Projecto_IS.pdb
+D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\obj\Debug\Projecto_IS.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\obj\Debug\Projecto_IS.pdb

@@ -1,0 +1,12 @@
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\ePubApp.exe.config
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\ePubApp.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\ePubApp.pdb
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.csprojResolveAssemblyReference.cache
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.Properties.Resources.resources
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.csproj.GenerateResource.Cache
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.pdb
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\eBdb.EpubReader.dll
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\Ionic.Zip.dll
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.LoginForm.resources
+D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.ListarItems.resources
