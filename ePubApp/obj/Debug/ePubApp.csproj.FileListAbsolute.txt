@@ -10,3 +10,16 @@ D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\eBdb.EpubReader.dll
 D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\bin\Debug\Ionic.Zip.dll
 D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.LoginForm.resources
 D:\Escola\1ºSemestre\IS\Projecto_IS\ePubApp\obj\Debug\ePubApp.ListarItems.resources
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\bin\Debug\ePubApp.exe.config
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.exe
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.pdb
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\bin\Debug\ePubApp.exe
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\bin\Debug\ePubApp.pdb
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\bin\Debug\eBdb.EpubReader.dll
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\bin\Debug\Ionic.Zip.dll
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.csprojResolveAssemblyReference.cache
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.ApresentaEpub.resources
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.LoginForm.resources
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.ListarItems.resources
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.Properties.Resources.resources
+C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.csproj.GenerateResource.Cache

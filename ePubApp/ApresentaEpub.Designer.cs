@@ -1,6 +1,6 @@
 ﻿namespace ePubApp
 {
-    partial class ListarItems
+    partial class ApresentaEpub
     {
         /// <summary>
         /// Required designer variable.
@@ -28,34 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.treeView1 = new System.Windows.Forms.TreeView();
             this.SuspendLayout();
             // 
-            // listBox1
+            // treeView1
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(95, 39);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(120, 160);
-            this.listBox1.TabIndex = 0;
-            this.listBox1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseDoubleClick);
+            this.treeView1.Location = new System.Drawing.Point(12, 12);
+            this.treeView1.Name = "treeView1";
+            this.treeView1.Size = new System.Drawing.Size(121, 299);
+            this.treeView1.TabIndex = 0;
             // 
-            // ListarItems
+            // ApresentaEpub
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(523, 296);
-            this.Controls.Add(this.listBox1);
-            this.Name = "ListarItems";
-            this.Text = "Form2";
+            this.ClientSize = new System.Drawing.Size(532, 323);
+            this.Controls.Add(this.treeView1);
+            this.Name = "ApresentaEpub";
+            this.Text = "ApresentaEpub";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.ListBox listBox1;
-
-
+        private System.Windows.Forms.TreeView treeView1;
     }
 }
