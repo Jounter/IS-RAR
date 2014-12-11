@@ -15,7 +15,7 @@ namespace ePubApp
     public partial class ListarItems : Form
     {
         private string[] epubFiles;
-        private string epubPath = Path.GetFullPath("bin/Debug");
+        private string epubPath = Path.GetFullPath("E:\\IPL\\3 Ano\\IS\\IS\\trunk");
         public ListarItems()
         {
             InitializeComponent();
