@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projecto_IS", "Projecto_IS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ePubApp", "ePubApp\ePubApp.csproj", "{6610D996-AFF0-4236-AB83-0F137A52538D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceePubCloud", "ServiceePubCloud\ServiceePubCloud.csproj", "{F1965922-2335-4270-8395-55901ED7AD66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{6610D996-AFF0-4236-AB83-0F137A52538D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6610D996-AFF0-4236-AB83-0F137A52538D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6610D996-AFF0-4236-AB83-0F137A52538D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1965922-2335-4270-8395-55901ED7AD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1965922-2335-4270-8395-55901ED7AD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1965922-2335-4270-8395-55901ED7AD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1965922-2335-4270-8395-55901ED7AD66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,3 +23,6 @@ C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.LoginForm.resources
 C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.ListarItems.resources
 C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.Properties.Resources.resources
 C:\Users\Rúben\Desktop\IS\trunk\ePubApp\obj\Debug\ePubApp.csproj.GenerateResource.Cache
+E:\IPL\3º Ano\IS\IS\trunk\ePubApp\bin\Debug\ePubApp.exe.config
+E:\IPL\3º Ano\IS\IS\trunk\ePubApp\obj\Debug\ePubApp.exe
+E:\IPL\3º Ano\IS\IS\trunk\ePubApp\obj\Debug\ePubApp.pdb
