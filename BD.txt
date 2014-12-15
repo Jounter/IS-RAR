@@ -1,0 +1,49 @@
+User:
+id
+username
+password
+name
+email
+birthdate
+lastEBookRead
+lastChapterRead
+lastLogin
+
+
+EBook
+id
+name
+author
+summary
+
+
+Chapter
+id
+name
+number
+eBookName (references EBook)
+
+
+Bookmark:
+id
+bookname (references EBook) (not required)
+chaptername (references Chapter) (not required)
+
+
+
+Favorite:
+id
+bookname (references EBook) (not required)
+chaptername (references Chapter) (not required)
+
+EBookStatistics:
+id
+username
+bookName
+chapter
+
+
+DateStatistics:
+id
+username (references User)
+date
