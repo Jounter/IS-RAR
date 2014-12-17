@@ -1,34 +1,36 @@
 User:
-id
-username
-password
-name
-email
-birthdate
-lastEBookRead
-lastChapterRead
-lastLogin
+CREATE TABLE User
+(
+UserID int NOT NULL PRIMARY KEY,
+Username varchar(30) NOT NULL,
+Password varchar(255) NOT NULL,
+Name varchar(255),
+Email varchar(255),
+Birthdate date(),
+LastEBookRead int FOREIGN KEY REFERENCES EBook(EBookID),
+LastChapterRead int FOREIGN KEY REFERENCES Chapter(ChapterID),
+LastLogin date()
+)
 
+EBook:
+CREATE TABLE EBook
+(
+EBookID int NOT NULL PRIMARY KEY,
+EBookName varchar(255) NOT NULL,
+Author varchar(255) NOT NULL,
+Summary text
+)
 
-EBook
-id
-name
-author
-summary
-
-
-Chapter
-id
-name
-number
-eBookName (references EBook)
-
+Chapter:
+ChapterID int NOT NULL PRIMARY KEY,
+ChapterName varchar(255),
+Number int,
+EBook FOREIGN KEY REFERENCES EBook(EBookID)
 
 Bookmark:
-id
-bookname (references EBook) (not required)
+BookmarkID int NOT NULL PRIMARY KEY,
+EBook int FOREIGN KEY REFERENCES 
 chaptername (references Chapter) (not required)
-
 
 
 Favorite:
