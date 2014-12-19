@@ -3,9 +3,18 @@ D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\bin\Debug\Projecto_IS.exe
 D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\bin\Debug\Projecto_IS.pdb
 D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\obj\Debug\Projecto_IS.exe
 D:\Escola\1ºSemestre\IS\Projecto_IS\Projecto_IS\obj\Debug\Projecto_IS.pdb
+<<<<<<< .mine
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\bin\Debug\Projecto_IS.exe.config
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\obj\Debug\Projecto_IS.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\obj\Debug\Projecto_IS.pdb
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\bin\Debug\Projecto_IS.exe
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\bin\Debug\Projecto_IS.pdb
+D:\Escola\1ºSemestre\IS\Projecto_IS\IS-RAR.git\trunk\Projecto_IS\obj\Debug\Projecto_IS.csprojResolveAssemblyReference.cache
+=======
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\bin\Debug\Projecto_IS.exe.config
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\obj\Debug\Projecto_IS.exe
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\obj\Debug\Projecto_IS.pdb
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\bin\Debug\Projecto_IS.exe
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\bin\Debug\Projecto_IS.pdb
 C:\Users\Rúben\Desktop\IS\trunk\Projecto_IS\obj\Debug\Projecto_IS.csprojResolveAssemblyReference.cache
+>>>>>>> .r3

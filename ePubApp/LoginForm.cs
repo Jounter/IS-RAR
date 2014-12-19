@@ -23,7 +23,7 @@ namespace ePubApp
         {
             if (txtUser.Text == username && txtPass.Text == pass)
             {
-                ListarItems li = new ListarItems();
+                Menu li = new Menu();
                 li.Show();
 
             }
@@ -32,6 +32,11 @@ namespace ePubApp
                 MessageBox.Show("Credenciais Invalidas");
             }
 
+
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
 
         }
     }

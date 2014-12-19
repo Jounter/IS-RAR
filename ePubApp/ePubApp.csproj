@@ -50,11 +50,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApresentaEpub.cs">
+    <Compile Include="Book.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ApresentaEpub.Designer.cs">
-      <DependentUpon>ApresentaEpub.cs</DependentUpon>
+    <Compile Include="Book.Designer.cs">
+      <DependentUpon>Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bookmarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bookmarks.Designer.cs">
+      <DependentUpon>Bookmarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Favorites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Favorites.Designer.cs">
+      <DependentUpon>Favorites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configs.Designer.cs">
+      <DependentUpon>Configs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignInForm.Designer.cs">
+      <DependentUpon>SignInForm.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
@@ -62,22 +86,31 @@
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="ListarItems.cs">
+    <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ListarItems.Designer.cs">
-      <DependentUpon>ListarItems.cs</DependentUpon>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="ApresentaEpub.resx">
-      <DependentUpon>ApresentaEpub.cs</DependentUpon>
+    <EmbeddedResource Include="Book.resx">
+      <DependentUpon>Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bookmarks.resx">
+      <DependentUpon>Bookmarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configs.resx">
+      <DependentUpon>Configs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Favorites.resx">
+      <DependentUpon>Favorites.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ListarItems.resx">
-      <DependentUpon>ListarItems.cs</DependentUpon>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -88,6 +121,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SignInForm.resx">
+      <DependentUpon>SignInForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
